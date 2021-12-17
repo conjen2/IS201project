@@ -1,0 +1,46 @@
+.common{
+    position: absolute;
+}
+.tableau{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+.footer{
+    bottom: 2px;
+    height: 15px;
+    left: 5px;
+    right: 5px;
+    position:fixed;
+    
+}
+body{
+    background-color: #888888;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: right;
+}
+.subheader{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    font-size: 10px;
+}
+h3{
+    text-align: center;
+    font-weight: normal;
+    color:khaki
+}
+h1{
+    color: khaki;
+}
+p{
+    text-align: center;
+}
